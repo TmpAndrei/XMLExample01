@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tags id="101">
+    <tags>
+        <tag id="102">
+            <kks>11MKH17CP101||XQ03</kks>
+            <description>P of s</description>
+            <shortName>P</shortName>
+            <analog>true</analog>
+            <unit>Pa</unit>
+            <maxValue>250</maxValue>
+            <minValue>0</minValue>
+        </tag>
+        <tag id="103">
+            <kks>11MKH12CE101||XQ01</kks>
+            <description>W of s</description>
+            <shortName>W</shortName>
+            <analog>true</analog>
+            <unit>Mg</unit>
+            <maxValue>550</maxValue>
+            <minValue>0</minValue>
+        </tag>
+        <tag id="107">
+            <kks>12HLB21CG101||XB01</kks>
+            <description>Gen in</description>
+            <shortName>Gi</shortName>
+            <analog>false</analog>
+            <unit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <maxValue>0</maxValue>
+            <minValue>0</minValue>
+        </tag>
+    </tags>
+</tags>

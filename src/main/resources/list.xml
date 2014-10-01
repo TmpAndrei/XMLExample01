@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tag id="100">
+    <kks>11MKA10CT201||XQ01</kks>
+    <description>T острого пара за ЦВД-А</description>
+    <shortName>Tоп ЦВД-А</shortName>
+    <analog>true</analog>
+    <unit>C</unit>
+    <maxValue>600</maxValue>
+    <minValue>0</minValue>
+</tag>
